@@ -1,2 +1,3 @@
 mój plik
 Zmiana w katalogu drugim i pierwszym razem
+Zmiana w test_branch
