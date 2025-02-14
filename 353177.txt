@@ -1,3 +1,2 @@
 mój plik
-zmiana w katalogu pierwszym
-zmiana w katalogu drugim
+Zmiana w katalogu drugim i pierwszym razem
